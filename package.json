@@ -1,6 +1,7 @@
 {
   "name": "front-end-lab3",
   "version": "0.1.0",
+  "homepage": "https://wanderrlust.github.io/front-end-lab3",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
